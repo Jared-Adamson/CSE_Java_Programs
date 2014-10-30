@@ -5,7 +5,7 @@ CSE 110
 Assignment 1
 31 - Jan - 2013
 
-1. [2 Points] Briefly explain the problem solving and program development process (no more than ½ page).
+1. [2 Points] Briefly explain the problem solving and program development process.
 
 First there needs to be a problem to solve then ideas are generated to solve the issue.  a general outline is made and sudo code.
 Then the program is made.  From there testing and refining is done until your have a working solution.
