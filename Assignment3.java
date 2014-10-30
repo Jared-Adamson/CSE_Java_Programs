@@ -1,5 +1,5 @@
-// AUTHOR: Jared Adamson
-// SPECIFICATION: description of the program CSE 110 - Homework 3
+//  Name: Jared Adamson
+//  Description:  CSE 110 - Homework 3
 /*
 Part 1: Written Exercises: (4
 pts)
