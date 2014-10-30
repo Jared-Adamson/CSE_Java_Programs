@@ -16,5 +16,4 @@ Then the program is made.  From there testing and refining is done until your ha
 
 Java is a high level language is must be broken down into a machine level language so the computer or virtual machine can understand
 and exicute the instructions. This is what the compiler does.
-
-  */
+*/
