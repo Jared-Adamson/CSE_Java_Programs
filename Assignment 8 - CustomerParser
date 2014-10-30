@@ -1,5 +1,4 @@
 // Assignment #: 8
-// This file is given by the instructor.
 //  Description: This is a utility class that takes a string containing
 // a customer's information and parse it to create a customer object.
 
