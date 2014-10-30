@@ -1,4 +1,4 @@
-package javaapplication2;
+package javaapplication;
 
 /**
  *
@@ -6,7 +6,7 @@ package javaapplication2;
  */ 
 import java.util.*;
 
-public class JavaApplication2 {
+public class JavaApplication {
 
    
 
