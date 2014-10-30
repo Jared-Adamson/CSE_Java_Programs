@@ -1,5 +1,4 @@
 // Assignment #: 8
-// This file is given by the instructor.
 //  Description: The BankParser class contains a static
 //               method parseStringToBank that takes a string
 //               containing a bank's information and
