@@ -1,10 +1,7 @@
-/*
- * Author: Jared Adamson
- * Class: CSE 110
- * Assignment 2
- * About: This program shows an N and Out menu with prices then allow the customer to
- * order there food, then computer the total price.
- */
+//  Name: Jared Adamson
+//  Description:: This program shows an N and Out menu with prices then allow the customer to
+// order there food, then computer the total price.
+ 
 
 /*
  Part 1 Answers
