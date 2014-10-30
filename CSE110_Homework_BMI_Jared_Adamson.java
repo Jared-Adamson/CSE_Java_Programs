@@ -1,3 +1,5 @@
+// Jared Adamson
+
 import java.util.*;
 public class BMICalc
 {
