@@ -1,4 +1,6 @@
-/* 1. [2 Points] Briefly explain the problem solving and program development process (no more than ½ page).
+//Jared Adamson
+
+/* 1. [2 Points] Briefly explain the problem solving and program development process.
 
 First there needs to be a problem to solve then ideas are generated to solve the issue.  a general outline is made and sudo code.  Then the program is made.  From there testing and refining is done until your have a working solution.
 
@@ -52,35 +54,3 @@ Java is a high level language is must be broken down into a machine level langua
   }
 }
 
-/*
-BMI Calculator
-
-import java.util.*;
-public class BMICalc
-{
-
-
-    public static void main(String[] args)
-{
-        Scanner input=new Scanner(System.in);
-
-        System.out.print("Enter height in feet and inches (Example - 5 foot 10 inches enter 5 10): ");
-
-        int intFeet = input.nextInt();
-
-        int intInches = input.nextInt();
-
-       System.out.print("Enter your weight in pounds: ");
-
-      int intWeight = input.nextInt();
-
-
-        int intHeight = (intFeet * 12) + intInches;
-
-
-        int intBmi = (intWeight * 703) /(intHeight * intHeight) ;
-
-        System.out.println("Your BMI is: "+intBmi);
-    }
-}
-*/
