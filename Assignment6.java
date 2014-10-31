@@ -1,9 +1,7 @@
-// Assignment #: 6
-//         Name: Jared Adamson
+//  Name: Jared Adamson
 //  Description: The Assignment 6 class creates a Tabbed Pane with
 //               two tabs, one for Account creation and one for
-//               Account transfer. and adds it as its Applet content
-//               and also sets its size.
+//               Account transfer. 
 
 import javax.swing.*;
 import java.util.*;
