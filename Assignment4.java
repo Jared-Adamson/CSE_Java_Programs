@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class hw3
+public class Assignment4
 {
 
    public static void main(String[] args) throws FileNotFoundException
