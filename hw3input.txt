@@ -1,3 +1,0 @@
-Hello world !
-Welcome to CSE 110 
-Java programming is fun
