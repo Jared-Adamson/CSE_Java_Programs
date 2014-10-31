@@ -1,3 +1,6 @@
+// Author: Jared Adamson
+// Title: Lab 3
+
 //Import the Scanner classes from the java.util package
 
 import java.util.*;
