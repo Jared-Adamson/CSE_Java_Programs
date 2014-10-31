@@ -1,3 +1,6 @@
+// Author: Jared Adamson
+// Title: Lab 2
+
 import java.util.Scanner;
 public class Lab2
 {
