@@ -1,3 +1,7 @@
+// Author: Jared Adamson
+// Title: Lab 4
+
+
 //	Import required packages
         import java.util.Scanner;
         
