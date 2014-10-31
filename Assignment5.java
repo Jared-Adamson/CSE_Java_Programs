@@ -1,9 +1,9 @@
 //  Name: Jared Adamson
-//  Description: Assignment - Geek
+//  Description: Assignment 5
 
 import java.util.Scanner;
 
-public class GeekAssignment
+public class Assignment5
 {
 
     
