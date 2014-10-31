@@ -9,7 +9,7 @@ public class Assignment4
    public static void main(String[] args) throws FileNotFoundException
    {
 
-	File infile= new File("hw3input.txt");
+	File infile= new File("hw4input.txt");
 	int digit=0, word=0, upper=0, lower=0;
 	String line;
 
@@ -17,7 +17,7 @@ public class Assignment4
 
 	Scanner keyboard = new Scanner(System.in);
 
-	PrintWriter out= new PrintWriter("hw3output.txt");
+	PrintWriter out= new PrintWriter("hw4output.txt");
 
 	out.println("\t\t String Analysis Report");
 	out.println("\t\t =====================");
